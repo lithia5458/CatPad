@@ -1,20 +1,20 @@
-# chudPad Description
+# CatPad Description
 
-The chudPad features a 3x3 macropad as well as a 0.91 inch screen and one knob. Also, it includes the chuds that its named after, debossed onto the front where everyone can marvel in their glory!
+The CatPad features a 3x3 macropad as well as a 0.91 inch screen and one knob. Also, it includes the cats that its named after, debossed onto the front where everyone can marvel in their glory!
 
-# chudPad image
+# CatPad image
 
 <img width="579" height="489" alt="image" src="https://github.com/user-attachments/assets/5d0982ed-01b7-462f-8477-26f8b16838f5" />
 
-# chudPad schematic
+# CatPad schematic
 
 <img width="1397" height="559" alt="image" src="https://github.com/user-attachments/assets/df8c605b-3e87-40c3-93d9-724c2f51cccf" />
 
-# chudPad PCB
+# CatPad PCB
 
 <img width="633" height="573" alt="image" src="https://github.com/user-attachments/assets/3ba1d676-e45a-49e3-ad42-bc84a27b2055" />
 
-# chudPad case and fit
+# CatPad case and fit
 
 The screws will insert from the left into the right side, and the heatset inserts will be placed inside of the green top plate.
 
